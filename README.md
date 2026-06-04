@@ -44,6 +44,6 @@ SOC Operations • SIEM • Threat Detection • Incident Response • Log Analy
 
 ## 📈 Philosophy
 
-> Great software is not only functional—it is secure, scalable, reliable, and built to create lasting value.
+> Great software is not only functional. It is secure, scalable, reliable, and built to create lasting value.
 
 Always learning. Always building. Always improving.
