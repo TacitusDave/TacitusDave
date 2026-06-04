@@ -4,7 +4,7 @@
 
 I design, build, and secure modern web and mobile applications that solve real-world problems. My focus is creating reliable, scalable, and high-performance systems while applying strong cybersecurity principles throughout the development lifecycle.
 
-As a Full-Stack Developer and SOC Analyst, I enjoy working across both software engineering and security operations—building applications, designing backend systems, monitoring security events, and helping organizations maintain secure environments.
+As a Full-Stack Developer and SOC Analyst, I enjoy working across both software engineering and security operations while building applications, designing backend systems, monitoring security events, and helping organizations maintain secure environments.
 
 ## 🚀 What I Do
 
