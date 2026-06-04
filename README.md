@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Velorian
 
-### Full-Stack Developer | SOC Analyst | Builder of Secure and Scalable Solutions
+**Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
 
 I design, build, and secure modern web and mobile applications that solve real-world problems. My focus is creating reliable, scalable, and high-performance systems while applying strong cybersecurity principles throughout the development lifecycle.
 
