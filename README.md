@@ -1,13 +1,10 @@
-# 👋 Hello, I'm Tacitus Dave
+# 👋 Hello, I'm **Tacitus Dave*
 
 **Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
-
 I design, build, and secure modern web and mobile applications that solve real-world problems. My focus is creating reliable, scalable, and high-performance systems while applying strong cybersecurity principles throughout the development lifecycle.
-
 As a Full-Stack Developer and SOC Analyst, I enjoy working across both software engineering and security operations while building applications, designing backend systems, monitoring security events, and helping organizations maintain secure environments.
 
-## 🚀 What I Do
-
+## WHAT I OFFER
 - Build production-ready web applications
 - Develop responsive and user-friendly interfaces
 - Design scalable backend systems and APIs
@@ -17,33 +14,23 @@ As a Full-Stack Developer and SOC Analyst, I enjoy working across both software 
 - Implement security best practices in software development
 - Optimize application performance and reliability
 
-## 🛠️ Tech Stack
+## TECH STACK
+Python • Django • PostgreSQL • Redis • REST APIs • TypeScript • React • Next.js • React Native • Expo
 
-### Backend
-Python • Django • PostgreSQL • Redis • REST APIs
-
-### Frontend
-TypeScript • React • Next.js
-
-### Mobile
-React Native • Expo
-
-### DevOps & Infrastructure
+### DEVOPS/INFASTRUCTURE
 Docker • Git • Linux • Microservices • CI/CD
 
-### Cybersecurity
+### CYBERSECURITY
 SOC Operations • SIEM • Threat Detection • Incident Response • Log Analysis • Vulnerability Assessment
 
-## 🎯 Current Focus
-
+## CURRENT FOCUS
 - Full-Stack Development
 - Cybersecurity & SOC Operations
 - Cloud Technologies
 - Secure Application Development
 - Scalable System Design
 
-## 📈 Philosophy
-
+## PHILOSOPHY
 > Great software is not only functional. It is secure, scalable, reliable, and built to create lasting value.
 
-Always learning. Always building. Always improving.
+!!! Always learning. Always building. Always improving.
