@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Tacitus Dave*
+# 👋 Hello, I'm *Tacitus Dave*
 
 **Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
 I design, build, and secure modern web and mobile applications that solve real-world problems. My focus is creating reliable, scalable, and high-performance systems while applying strong cybersecurity principles throughout the development lifecycle.
@@ -14,14 +14,18 @@ As a Full-Stack Developer and SOC Analyst, I enjoy working across both software 
 - Implement security best practices in software development
 - Optimize application performance and reliability
 
+
 ## TECH STACK
 Python • Django • PostgreSQL • Redis • REST APIs • TypeScript • React • Next.js • React Native • Expo
+
 
 ### DEVOPS/INFASTRUCTURE
 Docker • Git • Linux • Microservices • CI/CD
 
+
 ### CYBERSECURITY
 SOC Operations • SIEM • Threat Detection • Incident Response • Log Analysis • Vulnerability Assessment
+
 
 ## CURRENT FOCUS
 - Full-Stack Development
@@ -30,7 +34,8 @@ SOC Operations • SIEM • Threat Detection • Incident Response • Log Analy
 - Secure Application Development
 - Scalable System Design
 
+
 ## PHILOSOPHY
 > Great software is not only functional. It is secure, scalable, reliable, and built to create lasting value.
 
-!!! Always learning. Always building. Always improving.
+**Always learning. Always building. Always improving.**
